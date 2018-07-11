@@ -6,4 +6,3 @@ count.each do |c|
   end
 binding.pry
 count.each { |c| puts c }
-#see if update
